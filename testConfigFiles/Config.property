@@ -1,0 +1,3 @@
+URL = https://www.autotrader.com/calculators/
+ChromeDriver = ./ChromeDriver/chromedriver.exe
+ExcelPath = ./TestData/TestData_AutoCalc.xlsx
